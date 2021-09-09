@@ -25,6 +25,11 @@
     <img class="avatar mr-1" alt="" height="20" width="20" src="https://avatars.githubusercontent.com/u/16785467?s=60&v=4">
     Googleapis
     </a>
+  - <a style="max-width: 181px;" href="https://github.com/keras-team">
+    <img class="avatar mr-1" alt="" height="20" width="20" src="https://avatars.githubusercontent.com/u/34455048?s=60&v=4">
+    Keras
+    </a>
+    
  
 ## 🚀 Author of Cereja Project
 
